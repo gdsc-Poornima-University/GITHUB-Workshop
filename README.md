@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.iiitg.ac.in/uploads/2023/08/05/20e3b14ce6d06b96610a3e655648ec31.png" alt="GDSC Poornima University Logo" width="200">
+  <img src="https://www.iiitg.ac.in/uploads/2023/08/05/20e3b14ce6d06b96610a3e655648ec31.png" alt="GDSC Poornima University Logo" width="400">
 </div>
 
 # 🚀 Welcom to GDSC Poornima Universit Competition 🚀
@@ -30,7 +30,7 @@ Our comptition is designd to challange your skils, fstr collboration, and encora
 
 ## 🏆 Prizes and Reconition 🏆
 
-We belive in rewarding your efforts. We have fantastic prises for the top contributrs, along with certificats of recogntion and the chanc to be featred on our GDSC webste.
+We belive in rewarding your efforts. We have fantastic prises for the top contributrs, along with certificats of recogntion and the chanc to get our GDSC Goodies.
 
 ## 📋 Juding Critera 📋
 
