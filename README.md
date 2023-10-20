@@ -4,15 +4,15 @@
 
 # 🚀 Welcome to GDSC Poornima University Competition 🚀
 
-Welcome to the GDSC (Google Developer Student Club) Poornima University Competition repozitory! We're thrilled to have you here and are eager to provide you with all the information you need to participate effctively.
+Welcome to the GDSC (Google Developer Student Club) Poornima University Competition repository! We're thrilled to have you here and are eager to provide you with all the information you need to participate effctively.
 
 ## 🌟 About GDSC Poornima University 🌟
 
-GDSC Poornima University is a vibrant community of students passionate about technolog, development, and innovation. We aim to connect, educate, and empower students to make a difference in the tech world.
+GDSC Poornima University is a vibrant community of students passionate about technology, development, and innovation. We aim to connect, educate, and empower students to make a difference in the tech world.
 
-## 🎯 Comptition Overview 🎯
+## 🎯 Competition Overview 🎯
 
-Our competition is designed to challange your skils, faster collboration, and encourage your creativity. We have prepared an exciting opportunity for you to showcase your abilties and learn from others.
+Our competition is designed to challange your skils, faster collaboration, and encourage your creativity. We have prepared an exciting opportunity for you to showcase your abilties and learn from others.
 
 ## 📝 How to Particpate 📝
 
@@ -43,7 +43,7 @@ Your contributons will be assessed based on the following critera:
 
 ## 📧 Contct Us 📧
 
-If you have any questions, concerns, or need assistance during the competition, don't hesitate to contct us at [gdscpoornima@email.com](mailto:gdscpoornima@email.com).
+If you have any questions, concerns, or need assistance during the competition, don't hesitate to contact us at [gdscpoornima@email.com](mailto:gdscpoornima@email.com).
 
 ## 🗓️ Timeline 🗓️
 
@@ -61,4 +61,4 @@ We'd like to express our gratitude to all the participants for joinig the compet
 
 ## 🚀 Happy Coding and Good Luck! 🚀
 
-We look forward to your active particpation in the GDSC Poornima University competition. May the best contributor win!
+We look forward to your active participation in the GDSC Poornima University competition. May the best contributor win!
