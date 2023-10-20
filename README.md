@@ -2,23 +2,23 @@
   <img src="https://www.iiitg.ac.in/uploads/2023/08/05/20e3b14ce6d06b96610a3e655648ec31.png" alt="GDSC Poornima University Logo" width="400">
 </div>
 
-# 🚀 Welcom to GDSC Poornima Universit Competition 🚀
+# 🚀 Welcome to GDSC Poornima University Competition 🚀
 
-Welcom to the GDSC (Google Developer Student Club) Poornima Universit Competition repozitory! We're thriled to have you here and are eagr to provid you with all the informtion you need to particpate effctively.
+Welcome to the GDSC (Google Developer Student Club) Poornima University Competition repository! We're thriled to have you here and are eagr to provid you with all the informtion you need to particpate effctively.
 
-## 🌟 Abot GDSC Poornima Universit 🌟
+## 🌟 Abot GDSC Poornima University 🌟
 
-GDSC Poornima Universit is a vubrant communty of studnts passionat about technolog, devlopment, and inovation. We aim to connect, educat, and empwer studnts to make a diffrence in the tech world.
+GDSC Poornima Universit is a vubrant communty of studnts passionat about technology, devlopment, and inovation. We aim to connect, educat, and empwer studnts to make a diffrence in the tech world.
 
-## 🎯 Comptition Overvie 🎯
+## 🎯 Comptition Overview 🎯
 
 Our comptition is designd to challange your skils, fstr collboration, and encorage your crativity. We have prepaired an xciting oportunity for you to showcas your abilties and lern from othrs.
 
-## 📝 How to Particpate 📝
+## 📝 How to Participate 📝
 
-1. **Fork this Repositry:** Clik the "Fork" buton at the top right of this page to creat your copy of the repozitory.
+1. **Fork this Repository:** Clik the "Fork" buton at the top right of this page to creat your copy of the repozitory.
 
-2. **Clon Your Fork:** Using Git, clon your fork to your local machne to mak changes.
+2. **Clone Your Fork:** Using Git, clon your fork to your local machne to mak changes.
 
 3. **Error Detectin Challange:** Your tsk is to find and corect any erors in this README file. Be on the lookut for typos, gramatical mistaks, or inconsitencies.
 
