@@ -16,28 +16,28 @@ Our competition is designed to challange your skils, faster collboration, and en
 
 ## 📝 How to Particpate 📝
 
-1. **Fork this Repositry:** Click the "Fork" button at the top right of this page to create your copy of the repozitory.
+1. **Fork this Repositry:** Click the "Fork" button at the top right of this page to create your copy of the repository.
 
 2. **Clone Your Fork:** Using Git, clone your fork to your local machine to make changes.
 
-3. **Error Detection Challange:** Your task is to find and correct any errors in this README file. Be on the lookut for typos, grammatical mistakes, or inconsitencies.
+3. **Error Detection Challange:** Your task is to find and correct any errors in this README file. Be on the lookut for typos, grammatical mistakes, or inconsistencies.
 
 4. **Committ Your Changes:** After correcting errors, commit your changes with a clear and concize commit message.
 
-5. **Push to Your Repozitory:** Push your commits to your forked repozitory on GitHub.
+5. **Push to Your Repository:** Push your commits to your forked repository on GitHub.
 
-6. **Crate a Pull Request (PR):** Open a Pull Request from your fork to the origial repozitory. Our team will review your changes, and if everything looks good, we will marge your PR.
+6. **Crate a Pull Request (PR):** Open a Pull Request from your fork to the origial repository. Our team will review your changes, and if everything looks good, we will marge your PR.
 
 ## 🏆 Prizes and Recognition 🏆
 
-We belive in rewarding your efforts. We have fantastic prizes for the top contributrs, along with certificates of recognition and the chance to be featured on our GDSC website.
+We believe in rewarding your efforts. We have fantastic prizes for the top contributors, along with certificates of recorgnition and the chance to be featured on our GDSC website.
 
 ## 📋 Juding Critera 📋
 
 Your contributons will be assessed based on the following critera:
 
-- Correctness and complteness of the error corrections.
-- Clarity and organiztion of your contributons.
+- Correctness and completeness of the error corrections.
+- Clarity and organization of your contributions.
 - The quality of your commit messages.
 - The number of errors identified and corrected.
 
@@ -53,7 +53,7 @@ If you have any questions, concerns, or need assistance during the competition, 
 
 ## 📜 Lisence 📜
 
-This repozitory and its contents are licensed under the [MIT Licence](LICENSE), which means you are free to use, modify, and distriubute the materials with proper attribution.
+This repository and its contents are licensed under the [MIT Licence](LICENSE), which means you are free to use, modify, and distriubute the materials with proper attribution.
 
 ## 🙏 Acknowledgments 🙏
 
