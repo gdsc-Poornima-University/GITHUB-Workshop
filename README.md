@@ -4,7 +4,7 @@
 
 # 🚀 Welcome to GDSC Poornima University Competition 🚀
 
-Welcome to the GDSC (Google Developer Student Club) Poornima University Competition repozitory! We're thriled to have you here and are eager to provide you with all the informtion you need to particpate effctively.
+Welcome to the GDSC (Google Developer Student Club) Poornima University Competition repozitory! We're thrilled to have you here and are eager to provide you with all the information you need to participate effctively.
 
 ## 🌟 About GDSC Poornima University 🌟
 
