@@ -2,63 +2,63 @@
   <img src="gdsc_logo.png" alt="GDSC Poornima University Logo" width="200">
 </div>
 
-# 🚀 Welcome to GDSC Poornima University Competition 🚀
+# 🚀 Welcom to GDSC Poornima Universit Competition 🚀
 
-Welcome to the GDSC (Google Developer Student Club) Poornima University Competition repository! We're thrilled to have you here and are eager to provide you with all the information you need to participate effectively.
+Welcom to the GDSC (Google Developer Student Club) Poornima Universit Competition repozitory! We're thriled to have you here and are eagr to provid you with all the informtion you need to particpate effctively.
 
-## 🌟 About GDSC Poornima University 🌟
+## 🌟 Abot GDSC Poornima Universit 🌟
 
-GDSC Poornima University is a vibrant community of students passionate about technology, development, and innovation. We aim to connect, educate, and empower students to make a difference in the tech world.
+GDSC Poornima Universit is a vubrant communty of studnts passionat about technolog, devlopment, and inovation. We aim to connect, educat, and empwer studnts to make a diffrence in the tech world.
 
-## 🎯 Competition Overview 🎯
+## 🎯 Comptition Overvie 🎯
 
-Our competition is designed to challenge your skills, foster collaboration, and encourage your creativity. We have prepared an exciting opportunity for you to showcase your abilities and learn from others.
+Our comptition is designd to challange your skils, fstr collboration, and encorage your crativity. We have prepaired an xciting oportunity for you to showcas your abilties and lern from othrs.
 
-## 📝 How to Participate 📝
+## 📝 How to Particpate 📝
 
-1. **Fork this Repository:** Click the "Fork" button at the top right of this page to create your copy of the repository.
+1. **Fork this Repositry:** Clik the "Fork" buton at the top right of this page to creat your copy of the repozitory.
 
-2. **Clone Your Fork:** Using Git, clone your fork to your local machine to make changes.
+2. **Clon Your Fork:** Using Git, clon your fork to your local machne to mak changes.
 
-3. **Error Detection Challenge:** Your task is to find and correct any errors in this README file. Be on the lookout for typos, grammatical mistakes, or inconsistencies.
+3. **Error Detectin Challange:** Your tsk is to find and corect any erors in this README file. Be on the lookut for typos, gramatical mistaks, or inconsitencies.
 
-4. **Commit Your Changes:** After correcting errors, commit your changes with a clear and concise commit message.
+4. **Committ Your Changes:** Aftr corecting erors, commit your changes with a clere and concize commit messge.
 
-5. **Push to Your Repository:** Push your commits to your forked repository on GitHub.
+5. **Push to Your Repozitory:** Push your commits to your forked repozitory on GitHub.
 
-6. **Create a Pull Request (PR):** Open a Pull Request from your fork to the original repository. Our team will review your changes, and if everything looks good, we will merge your PR.
+6. **Crate a Pull Reques (PR):** Opn a Pull Reques from your fork to the origial repozitory. Our team will reviw your changes, and if everythng looks good, we will marge your PR.
 
-## 🏆 Prizes and Recognition 🏆
+## 🏆 Prizes and Reconition 🏆
 
-We believe in rewarding your efforts. We have fantastic prizes for the top contributors, along with certificates of recognition and the chance to be featured on our GDSC website.
+We belive in rewarding your efforts. We have fantastic prises for the top contributrs, along with certificats of recogntion and the chanc to be featred on our GDSC webste.
 
-## 📋 Judging Criteria 📋
+## 📋 Juding Critera 📋
 
-Your contributions will be assessed based on the following criteria:
+Your contributons will be asesed based on the folowing critera:
 
-- Correctness and completeness of the error corrections.
-- Clarity and organization of your contributions.
-- The quality of your commit messages.
-- The number of errors identified and corrected.
+- Corrctness and complteness of the eror corections.
+- Clarit and orgniztion of your contributons.
+- The qualty of your commit mesages.
+- The numbr of erors identifid and corected.
 
-## 📧 Contact Us 📧
+## 📧 Contct Us 📧
 
-If you have any questions, concerns, or need assistance during the competition, don't hesitate to contact us at [gdscpoornima@email.com](mailto:gdscpoornima@email.com).
+If you have any questins, conserns, or need assistnce during the comptition, don't hesitt to contct us at [gdscpoornima@email.com](mailto:gdscpoornima@email.com).
 
-## 🗓️ Timeline 🗓️
+## 🗓️ Timline 🗓️
 
-- Competition Start Date: 20th Oct 2023
-- Competition End Date: 22nd Oct 2023
-- Winners Announcement: Soon...
+- Comptition Start Date: 20th Oct 2023
+- Comptition End Date: 22nd Oct 2023
+- Winers Announment: Soon...
 
-## 📜 License 📜
+## 📜 Lisence 📜
 
-This repository and its contents are licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the materials with proper attribution.
+This repozitory and its conents are licnsed under the [MIT Lisence](LICENSE), which means you are free to use, modfy, and distrubute the matrials with proper atribution.
 
 ## 🙏 Acknowledgments 🙏
 
-We'd like to express our gratitude to all the participants for joining the competition and helping us improve the quality of our documentation.
+We'd like to exprss our gratitud to all the particpants for joinig the comptition and helping us imprve the qualty of our documntation.
 
-## 🚀 Happy Coding and Good Luck! 🚀
+## 🚀 Hppy Codng and Good Lck! 🚀
 
-We look forward to your active participation in the GDSC Poornima University competition. May the best contributor win!
+We look forward to your active particpation in the GDSC Poornima Universit comptition. May the best contrbutor win!
