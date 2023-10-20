@@ -20,7 +20,7 @@ Our competition is designed to challange your skils, faster collaboration, and e
 
 2. **Clone Your Fork:** Using Git, clone your fork to your local machine to make changes.
 
-3. **Error Detection Challange:** Your task is to find and correct any errors in this README file. Be on the lookut for typos, grammatical mistakes, or inconsistencies.
+3. **Error Detection Challange:** Your task is to find and correct any errors in this README file. Be on the lookout for typos, grammatical mistakes, or inconsistencies.
 
 4. **Committ Your Changes:** After correcting errors, commit your changes with a clear and concize commit message.
 
