@@ -8,7 +8,7 @@ Welcome to the GDSC (Google Developer Student Club) Poornima University Competit
 
 ## 🌟 About GDSC Poornima University 🌟
 
-GDSC Poornima University is a vibrant community of students passionate about technolog, devlopment, and inovation. We aim to connect, educate, and empower students to make a difference in the tech world.
+GDSC Poornima University is a vibrant community of students passionate about technolog, development, and innovation. We aim to connect, educate, and empower students to make a difference in the tech world.
 
 ## 🎯 Comptition Overview 🎯
 
