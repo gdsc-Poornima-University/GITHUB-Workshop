@@ -43,7 +43,7 @@ Your contributions will be assessed based on the following criteria:
 
 ## 📧 Contact Us 📧
 
-If you have any questions, concerns, or need assistance during the competition, don't hesitate to contact us at [gdscpoornima@email.com](mailto:gdscpoornima@email.com).
+If you have any questions, concerns, or need assistance during the competition, don't hesitate to contact us at [gdsc.poornimauniversity@gmail.com](mailto:gdsc.poornimauniversity@gmail.com).
 
 ## 🗓️ Timeline 🗓️
 
