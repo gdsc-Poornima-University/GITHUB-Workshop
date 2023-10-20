@@ -47,9 +47,9 @@ If you have any questions, concerns, or need assistance during the competition, 
 
 ## 🗓️ Timeline 🗓️
 
-- Competition Start Date: [Insert Start Date]
-- Competition End Date: [Insert End Date]
-- Winners Announcement: [Insert Announcement Date]
+- Competition Start Date: 20th Oct 2023
+- Competition End Date: 22nd Oct 2023
+- Winners Announcement: ***Anirudh Sharma, Siddhant Pathak, Krishna Kumawat***
 
 ## 📜 License 📜
 
