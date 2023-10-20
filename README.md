@@ -43,7 +43,7 @@ Your contributons will be asesed based on the folowing critera:
 
 ## 📧 Contct Us 📧
 
-If you have any questins, conserns, or need assistnce during the comptition, don't hesitt to contct us at [gdscpoornima@email.com](mailto:gdsc.poornimauniversity@gmail.com).
+If you have any questins, conserns, or need assistnce during the comptition, don't hesitt to contct us at [gdsc.poornimauniversity@gmail.com](mailto:gdsc.poornimauniversity@gmail.com).
 
 ## 🗓️ Timline 🗓️
 
