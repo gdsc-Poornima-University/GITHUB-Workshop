@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gdsc_logo.png" alt="GDSC Poornima University Logo" width="200">
+  <img src="https://logogen.gdscasu.com/logos/gdsc-logo.png" alt="GDSC Poornima University Logo" width="200">
 </div>
 
 # 🚀 Welcom to GDSC Poornima Universit Competition 🚀
