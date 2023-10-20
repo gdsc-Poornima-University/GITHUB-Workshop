@@ -2,17 +2,17 @@
   <img src="https://www.iiitg.ac.in/uploads/2023/08/05/20e3b14ce6d06b96610a3e655648ec31.png" alt="GDSC Poornima University Logo" width="400">
 </div>
 
-# 🚀 Welcome to GDSC Poornima Universit Competition 🚀
+# 🚀 Welcome to GDSC Poornima University Competition 🚀
 
-Welcom to the GDSC (Google Developer Student Club) Poornima Universit Competition repozitory! We're thriled to have you here and are eagr to provid you with all the informtion you need to particpate effctively.
+Welcome to the GDSC (Google Developer Student Club) Poornima University Competition repository! We're thriled to have you here and are eager to provide you with all the information you need to particpate effectively.
 
-## 🌟 Abot GDSC Poornima Universit 🌟
+## 🌟 Abot GDSC Poornima University 🌟
 
-GDSC Poornima Universit is a vubrant communty of studnts passionat about technolog, devlopment, and inovation. We aim to connect, educat, and empwer studnts to make a diffrence in the tech world.
+GDSC Poornima University is a vubrant community of students passionate about technology, development, and inovation. We aim to connect, education, and empower students to make a diffrence in the tech world.
 
-## 🎯 Comptition Overvie 🎯
+## 🎯 Comptition Overview 🎯
 
-Our comptition is designd to challange your skils, fstr collboration, and encorage your crativity. We have prepaired an xciting oportunity for you to showcas your abilties and lern from othrs.
+Our comptition is designd to challange your skils, fastr collboration, and encorage your creativity. We have prepaired an exciting oportunity for you to showcase your abilties and learn from others.
 
 ## 📝 How to Particpate 📝
 
