@@ -2,7 +2,7 @@
   <img src="https://www.iiitg.ac.in/uploads/2023/08/05/20e3b14ce6d06b96610a3e655648ec31.png" alt="GDSC Poornima University Logo" width="400">
 </div>
 
-# 🚀 Welcom to GDSC Poornima Universit Competition 🚀
+# 🚀 Welcome to GDSC Poornima Universit Competition 🚀
 
 Welcom to the GDSC (Google Developer Student Club) Poornima Universit Competition repozitory! We're thriled to have you here and are eagr to provid you with all the informtion you need to particpate effctively.
 
